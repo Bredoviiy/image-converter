@@ -1,4 +1,7 @@
 .venv/
+.idea/
 __pycache__/
 *.pyc
 converter.log
+*.log
+.DS_Store
